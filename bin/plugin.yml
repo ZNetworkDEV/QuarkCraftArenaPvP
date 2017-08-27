@@ -1,0 +1,14 @@
+name: OpteyArenaPvP
+description: OpteyArenaPvP Creador Por ZNetwork Para OpteyCraftNetwork
+main: com.znetwork.arenapvp.Core
+version: 1.0
+depend: [ProtocolLib]
+
+commands:
+  party:
+  aceptar:
+  duelo:
+  rechazar:
+  opteyarenapvp:
+  espectar:
+  arena:
